@@ -4,7 +4,7 @@ Decision Sciences Research Center at Tecnologico de Monterrey.
 
 The project consist of 5 questions about the CO2 emission throughout the world and study the impact of many varaibles.
 ## Package
-pip install numpy pandas matplotlib seaborn wbgapi scikit-learn
+pip install numpy pandas matplotlib seaborn wbgapi scikit-learn plotly
 
 
 ## Question 1
