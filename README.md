@@ -41,5 +41,5 @@ Here is the importance of features in CO2 emissions reduction.
 This final part makes the assumption if a country where the renewable energy percentage is less than 10% and it increase the percentage by 50%, what would happen.<br>
 To predict the probability we use the classifier trained in the last problem, and the results are plotted in the interactive plot
 ![](https://github.com/alhan12/Tec_project/blob/main/e.png)
-
-So this plot shows that almost the half of the countries could decrease their CO2 emissions.
+The points blue represent the countries where is a high likelihood to decrease their CO2 emissions while the red points represent the countries where is not possible.
+So the plot shows that almost the half of the countries could decrease their CO2 emissions.
