@@ -8,7 +8,10 @@ pip install numpy pandas matplotlib seaborn wbgapi scikit-learn
 
 
 ## Question 1
+This program downloads the data using the World Bank Data Library considering many economic and environmental indicators.
 
+Then clean and substitute the NaN-values using a k nearest neighbor algorithm.
+The last part shows the correlation between the economy and environmental variables.
 
 ## Question 2
 
