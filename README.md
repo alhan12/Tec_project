@@ -12,7 +12,8 @@ This program downloads the data using the World Bank Data Library considering ma
 
 Then clean and substitute the NaN-values using a k nearest neighbor algorithm.
 The last part shows the correlation between the economy and environmental variables.
-
+This ipython returns the csv file of the data obtained, and the correletion between the variables.
+https://github.com/alhan12/Tec_project/blob/main/correlation.pdf
 ## Question 2
 
 
