@@ -33,7 +33,7 @@ The program returns the interactive plots<br>
 Since there is a new condition, the emissions should be always positive or at least zero, but many prediction does't hold this condition, so I cleaned the results and ploted only the countries what Linear regressions is valid.
 ![](https://github.com/alhan12/Tec_project/blob/main/d.png)
 ## Question 4
-
-
+This program classifies the data through a binabary variable, uses a Random Tree classificator.
+![](https://github.com/alhan12/Tec_project/blob/main/features.png)
 ## Question 5
 
