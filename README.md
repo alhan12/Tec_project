@@ -1,4 +1,4 @@
-# Tec_project
+# Tecnologico de Monterrey Project
 This project is part of  a test for a Research Programmer and Data Scientist position at the 
 Decision Sciences Research Center at Tecnologico de Monterrey. 
 
