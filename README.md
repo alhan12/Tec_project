@@ -36,7 +36,7 @@ The program returns the interactive plots<br>
 
 Since there is a new condition, the emissions should be always positive or at least zero, though many predictions do not hold this condition, so I cleaned the results and plotted only the countries where Linear regression is valid.
 ![](https://github.com/alhan12/Tec_project/blob/main/d.png)
-The linear regression is not valid since the r^2 value is negative, and the data show a non-linear behaivior.
+The linear regression is not valid since the r^2 value is negative, and the data show a non-linear behavior.
 ![](https://github.com/alhan12/Tec_project/blob/main/CO2%20emissions%20errors%20(renew).png)
 
 ## Question 4
