@@ -21,6 +21,10 @@ Suppose that there is an increase in GDP, and then apply and analyze the results
 And returns the information into an interactive graph comparing the projected and current emissions.
 ![](https://github.com/alhan12/Tec_project/blob/main/a.png)
 ![](https://github.com/alhan12/Tec_project/blob/main/b.png)
+
+However, the Linear regression is not valid, since the r^2 value is negative, and the scatter plot shows a non-linear behavior.
+![](https://github.com/alhan12/Tec_project/blob/main/CO2%20emissions%20errors.png) 
+
 ## Question 3
 This program adds more data into the csv file using the World Bank Data Library considering new environmental indicators.<br>
 Again, clean the data and add NaN values using the k nearest neighbor algorithm to sustain the values.<br>
@@ -32,10 +36,15 @@ The program returns the interactive plots<br>
 
 Since there is a new condition, the emissions should be always positive or at least zero, though many predictions do not hold this condition, so I cleaned the results and plotted only the countries where Linear regression is valid.
 ![](https://github.com/alhan12/Tec_project/blob/main/d.png)
+The linear regression is not valid since the r^2 value is negative, and the data show a non-linear behaivior.
+![](https://github.com/alhan12/Tec_project/blob/main/CO2%20emissions%20errors%20(renew).png)
+
 ## Question 4
 This program classifies the data through a binary variable and uses a Random Tree classificator. It trains the algorithm with the data that we have collected in question 3.
 Here is the importance of features in CO2 emissions reduction.
 ![](https://github.com/alhan12/Tec_project/blob/main/features.png)
+
+
 ## Question 5
 
 This final part assumes that in a country where the renewable energy percentage is less than 10% and increases the percentage by 50%, what would happen?<br>
