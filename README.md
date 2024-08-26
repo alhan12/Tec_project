@@ -43,4 +43,4 @@ To predict the probability we use the classifier trained in the last problem, an
 ![](https://github.com/alhan12/Tec_project/blob/main/e.png)
 
 The blue points represent the countries where there is a high likelihood of decreasing their CO2 emissions while the red points represent the countries where is not possible.<br>
-So the plot shows that almost half of the countries could decrease their CO2 emissions.
+So the plot shows that most than half of the countries could decrease their CO2 emissions.
